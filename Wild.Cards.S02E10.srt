@@ -292,7 +292,7 @@ Kraj citata.
 
 74
 00:02:00,880 --> 00:02:01,820
-Izgleda kao jedna od ostalih žena
+Izgleda kao jedna od drugih žena
 
 75
 00:02:01,920 --> 00:02:03,180
@@ -984,7 +984,7 @@ U redu?
 
 247
 00:07:42,930 --> 00:07:43,990
-Zašto ne uzmem te ispovjedaonice iz tvojih ruku?
+Zašto ne bih uzeo te ispovjedaonice iz tvojih ruku?
 
 248
 00:07:44,090 --> 00:07:45,330
@@ -1200,7 +1200,7 @@ Ne. Ne, naravno da ne.
 
 301
 00:09:33,770 --> 00:09:34,970
-Jer ne bih nikad.
+Jer nikad ne bih.
 
 302
 00:09:35,740 --> 00:09:36,800
@@ -1580,7 +1580,7 @@ Mmm-hmm.
 
 396
 00:12:28,410 --> 00:12:29,140
-Sjećate li se koliko je to bilo sati?
+Sjećaš li se koje je to bilo vrijeme?
 
 397
 00:12:29,240 --> 00:12:29,840
@@ -1808,7 +1808,7 @@ Mmm.
 
 453
 00:14:36,100 --> 00:14:37,900
-U mojoj zemlji kažemo da te netko udari po glavi
+U mojoj zemlji kažemo da te netko udari po glavi.
 
 454
 00:14:38,010 --> 00:14:39,310
@@ -3440,7 +3440,7 @@ Pa, znam nekoga tko voli ponovno gledanje.
 
 861
 00:30:10,270 --> 00:30:11,340
-Bože moj.
+O moj Bože.
 
 862
 00:30:11,440 --> 00:30:13,370
@@ -3784,7 +3784,7 @@ Imao sam te kad sam imao samo 17 godina.
 
 947
 00:33:27,770 --> 00:33:29,330
-Odreći se tebe bila je najteža stvar koju sam ikada morao učiniti.
+Odreći se tebe bila je najteža stvar koju sam ikad morao učiniti.
 
 948
 00:33:30,040 --> 00:33:30,900
@@ -3792,7 +3792,7 @@ Zato sam pio.
 
 949
 00:33:31,740 --> 00:33:33,110
-Bježeći od moje sramote.
+Bježim od svoje sramote.
 
 950
 00:33:33,970 --> 00:33:34,910
@@ -3852,7 +3852,7 @@ A onda sam saznao za tebe i Veronique.
 
 964
 00:34:05,010 --> 00:34:05,970
-Kada ste saznali?
+Kada si saznao/la?
 
 965
 00:34:06,710 --> 00:34:08,240
@@ -3960,7 +3960,7 @@ Da, pa, što mogu reći? Moja cura je prirodna.
 
 991
 00:35:17,910 --> 00:35:19,510
-Liam, na snimci te noći,
+Liam, na snimci od te noći,
 
 992
 00:35:19,610 --> 00:35:21,210
@@ -4064,7 +4064,7 @@ Dobro, dobro, idem po piće,
 
 1017
 00:36:24,510 --> 00:36:25,910
-a onda ću se naći s vama tamo vani.
+a onda ću se naći tamo vani.
 
 1018
 00:36:26,010 --> 00:36:27,480
@@ -4384,7 +4384,7 @@ Tako sam zahvalna Veronique
 
 1097
 00:39:47,980 --> 00:39:49,350
-za brisanje mog imena.
+za čišćenje mog imena.
 
 1098
 00:39:49,450 --> 00:39:51,950
